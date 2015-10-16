@@ -1,7 +1,7 @@
 {
-  "name": "jsonurl",
+  "name": "ovfiets",
   "version": "0.0.1",
-  "description": "Json url ",
+  "description": "OV fiets",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com:chelm/koop-sample-provider.git"
+    "url": "https://github.com/geodienst/koop-ovfiets.git"
   }
 }
